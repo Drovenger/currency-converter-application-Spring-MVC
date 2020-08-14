@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="currency-converter-application-Spring-MVC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/currency_converter_application_Spring_MVC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="currency-converter-application-Spring-MVC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="currency-converter-application-Spring-MVC" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
